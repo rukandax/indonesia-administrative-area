@@ -60,9 +60,7 @@ All of our data basically return the similar format
 }
 ```
 
-# Code Examples
-
-Here is some example of how to use our data in your code
+# Fetch Examples
 
 ## Javascript
 
