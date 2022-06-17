@@ -28,7 +28,7 @@ List of Province (Provinsi), City (Kabupaten/Kota), Administrative Area 3 (Kecam
 
 > Example: https://rukandax.github.io/indonesia-administrative-area/1/1/areas.json
 
-## Get Administrative Area 4 List (Gampong/Dusun/Kelurahan)
+## Get Administrative Area 4 List (Gampong/Desa/Kelurahan)
 
 > Method: GET
 >
@@ -60,7 +60,7 @@ All of our endpoint will return the similar format
 
 # Code Examples
 
-Here is some example of how to use our Static API
+Here is some example of how to use our data in your code
 
 ## Javascript
 
