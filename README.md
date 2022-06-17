@@ -38,7 +38,7 @@ List of Province (Provinsi), City (Kabupaten/Kota), Administrative Area 3 (Kecam
 
 # Responses
 
-All of our endpoint will return the similar format
+All of our data basically return the similar format
 
 **The Response**
 
@@ -48,7 +48,7 @@ All of our endpoint will return the similar format
 }
 ```
 
-**The Areas**
+**The Area Object**
 
 ```
 {
