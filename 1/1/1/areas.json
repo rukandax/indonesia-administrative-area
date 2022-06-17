@@ -2,87 +2,108 @@
     "areas": [
         {
             "id": 1,
-            "name": "Blang Beurandang"
+            "name": "Blang Beurandang",
+            "alias": "23618"
         },
         {
             "id": 2,
-            "name": "Drien Rampak"
+            "name": "Drien Rampak",
+            "alias": "23617"
         },
         {
             "id": 3,
-            "name": "Gampa"
+            "name": "Gampa",
+            "alias": "23611"
         },
         {
             "id": 4,
-            "name": "Kampung Belakang"
+            "name": "Kampung Belakang",
+            "alias": "23611"
         },
         {
             "id": 5,
-            "name": "Kampung Darat"
+            "name": "Kampung Darat",
+            "alias": "23611"
         },
         {
             "id": 6,
-            "name": "Kampung Pasir"
+            "name": "Kampung Pasir",
+            "alias": "23611"
         },
         {
             "id": 7,
-            "name": "Kuta Padang"
+            "name": "Kuta Padang",
+            "alias": "23614"
         },
         {
             "id": 8,
-            "name": "Lapang"
+            "name": "Lapang",
+            "alias": "23618"
         },
         {
             "id": 9,
-            "name": "Leuhan"
+            "name": "Leuhan",
+            "alias": "23611"
         },
         {
             "id": 10,
-            "name": "Padang Seurahet"
+            "name": "Padang Seurahet",
+            "alias": "23611"
         },
         {
             "id": 11,
-            "name": "Panggong"
+            "name": "Panggong",
+            "alias": "23612"
         },
         {
             "id": 12,
-            "name": "Pasar Aceh"
+            "name": "Pasar Aceh",
+            "alias": "23612"
         },
         {
             "id": 13,
-            "name": "Rundeng"
+            "name": "Rundeng",
+            "alias": "23616"
         },
         {
             "id": 14,
-            "name": "Seuneubok"
+            "name": "Seuneubok",
+            "alias": "23611"
         },
         {
             "id": 15,
-            "name": "Suak Nie"
+            "name": "Suak Nie",
+            "alias": "23611"
         },
         {
             "id": 16,
-            "name": "Suak Raya"
+            "name": "Suak Raya",
+            "alias": "23611"
         },
         {
             "id": 17,
-            "name": "Suak Ribee"
+            "name": "Suak Ribee",
+            "alias": "23611"
         },
         {
             "id": 18,
-            "name": "Suak Sigadeng"
+            "name": "Suak Sigadeng",
+            "alias": "23611"
         },
         {
             "id": 19,
-            "name": "Suak Indrapuri"
+            "name": "Suak Indrapuri",
+            "alias": "23611"
         },
         {
             "id": 20,
-            "name": "Ujong Baroh"
+            "name": "Ujong Baroh",
+            "alias": "23611"
         },
         {
             "id": 21,
-            "name": "Ujung Kalak"
+            "name": "Ujung Kalak",
+            "alias": "23617"
         }
     ]
 }
