@@ -1,1 +1,1 @@
-# Aceh (City - Kota/Kabupaten)
+# Aceh

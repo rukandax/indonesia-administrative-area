@@ -1,0 +1,88 @@
+{
+    "areas": [
+        {
+            "id": 1,
+            "name": "Blang Beurandang"
+        },
+        {
+            "id": 2,
+            "name": "Drien Rampak"
+        },
+        {
+            "id": 3,
+            "name": "Gampa"
+        },
+        {
+            "id": 4,
+            "name": "Kampung Belakang"
+        },
+        {
+            "id": 5,
+            "name": "Kampung Darat"
+        },
+        {
+            "id": 6,
+            "name": "Kampung Pasir"
+        },
+        {
+            "id": 7,
+            "name": "Kuta Padang"
+        },
+        {
+            "id": 8,
+            "name": "Lapang"
+        },
+        {
+            "id": 9,
+            "name": "Leuhan"
+        },
+        {
+            "id": 10,
+            "name": "Padang Seurahet"
+        },
+        {
+            "id": 11,
+            "name": "Panggong"
+        },
+        {
+            "id": 12,
+            "name": "Pasar Aceh"
+        },
+        {
+            "id": 13,
+            "name": "Rundeng"
+        },
+        {
+            "id": 14,
+            "name": "Seuneubok"
+        },
+        {
+            "id": 15,
+            "name": "Suak Nie"
+        },
+        {
+            "id": 16,
+            "name": "Suak Raya"
+        },
+        {
+            "id": 17,
+            "name": "Suak Ribee"
+        },
+        {
+            "id": 18,
+            "name": "Suak Sigadeng"
+        },
+        {
+            "id": 19,
+            "name": "Suak Indrapuri"
+        },
+        {
+            "id": 20,
+            "name": "Ujong Baroh"
+        },
+        {
+            "id": 21,
+            "name": "Ujung Kalak"
+        },
+    ]
+}
