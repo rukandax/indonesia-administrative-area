@@ -1,6 +1,6 @@
 # Indonesia Administrative Area
 
-We provide list of Province (Provinsi), City (Kabupaten/Kota), Administrative Area 3 (Kecamatan) and Administrative Area 4 (Kelurahan) in Indonesia as Static API
+List of Province (Provinsi), City (Kabupaten/Kota), Administrative Area 3 (Kecamatan) and Administrative Area 4 (Kelurahan) in Indonesia
 
 # API Format
 
@@ -36,7 +36,7 @@ We provide list of Province (Provinsi), City (Kabupaten/Kota), Administrative Ar
 
 > Example: https://rukandax.github.io/indonesia-administrative-area/1/1/1/areas.json
 
-# API Response
+# Responses
 
 All of our endpoint will return the similar format
 
