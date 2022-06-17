@@ -10,11 +10,15 @@ We provide list of Province (Provinsi), City (Kabupaten/Kota), Administrative Ar
 >
 > Path: /
 
+> Example: https://rukandax.github.io/indonesia-administrative-area/
+
 ## Get Cities List (Kota)
 
 > Method: GET
 >
 > Path: /{provinceId}
+
+> Example: https://rukandax.github.io/indonesia-administrative-area/1/
 
 ## Get Administrative Area 3 List (Kecamatan)
 
@@ -22,11 +26,15 @@ We provide list of Province (Provinsi), City (Kabupaten/Kota), Administrative Ar
 >
 > Path: /{provinceId}/{cityId}
 
-## Get Administrative Area 4 List (Kecamatan)
+> Example: https://rukandax.github.io/indonesia-administrative-area/1/1/
+
+## Get Administrative Area 4 List (Kelurahan)
 
 > Method: GET
 >
 > Path: /{provinceId}/{cityId}/{administrativeArea3Id}
+
+> Example: https://rukandax.github.io/indonesia-administrative-area/1/1/1/
 
 # API Response
 
