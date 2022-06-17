@@ -1,6 +1,6 @@
 # Indonesia Administrative Area
 
-We provide list of Province (Provinsi), City (Kota), Administrative Area 3 (Kecamatan) and Administrative Area 4 (Kelurahan) in Indonesia as Static API
+We provide list of Province (Provinsi), City (Kota), Administrative Area 3 (Kecamatan) and Administrative Area 4 (Kelurahan) in Indonesia as Static API (HTML-JSON)
 
 # API Format
 
@@ -27,6 +27,28 @@ We provide list of Province (Provinsi), City (Kota), Administrative Area 3 (Keca
 > Method: GET
 >
 > Path: /{provinceId}/{cityId}/{administrativeArea3Id}
+
+# API Response
+
+All of our endpoint will return the similar format
+
+**The Response**
+
+```
+{
+    "areas": Object[]
+}
+```
+
+**The Areas**
+
+```
+{
+    "id": Number,
+    "name": String,
+    "short": String (Optional)
+}
+```
 
 # Code Examples
 
