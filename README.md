@@ -1,6 +1,6 @@
 # Indonesia Administrative Area
 
-We provide list of Province (Provinsi), City (Kabupaten/Kota), Administrative Area 3 (Kecamatan) and Administrative Area 4 (Kelurahan) in Indonesia as Static API (HTML-JSON)
+We provide list of Province (Provinsi), City (Kabupaten/Kota), Administrative Area 3 (Kecamatan) and Administrative Area 4 (Kelurahan) in Indonesia as Static API
 
 # API Format
 
@@ -8,33 +8,33 @@ We provide list of Province (Provinsi), City (Kabupaten/Kota), Administrative Ar
 
 > Method: GET
 >
-> Path: /
+> Path: /areas.json
 
-> Example: https://rukandax.github.io/indonesia-administrative-area/
+> Example: https://rukandax.github.io/indonesia-administrative-area/areas.json
 
 ## Get Cities List (Kota)
 
 > Method: GET
 >
-> Path: /{provinceId}
+> Path: /{provinceId}/areas.json
 
-> Example: https://rukandax.github.io/indonesia-administrative-area/1/
+> Example: https://rukandax.github.io/indonesia-administrative-area/1/areas.json
 
 ## Get Administrative Area 3 List (Kecamatan)
 
 > Method: GET
 >
-> Path: /{provinceId}/{cityId}
+> Path: /{provinceId}/{cityId}/areas.json
 
-> Example: https://rukandax.github.io/indonesia-administrative-area/1/1/
+> Example: https://rukandax.github.io/indonesia-administrative-area/1/1/areas.json
 
 ## Get Administrative Area 4 List (Kelurahan)
 
 > Method: GET
 >
-> Path: /{provinceId}/{cityId}/{administrativeArea3Id}
+> Path: /{provinceId}/{cityId}/{administrativeArea3Id}/areas.json
 
-> Example: https://rukandax.github.io/indonesia-administrative-area/1/1/1/
+> Example: https://rukandax.github.io/indonesia-administrative-area/1/1/1/areas.json
 
 # API Response
 

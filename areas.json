@@ -1,0 +1,174 @@
+{
+    "areas": [
+        {
+            "id": 1,
+            "name": "Aceh",
+            "alias": "Aceh"
+        },
+        {
+            "id": 2,
+            "name": "Sumatra Utara",
+            "alias": "Sumut"
+        },
+        {
+            "id": 3,
+            "name": "Sumatra Barat",
+            "alias": "Sumbar"
+        },
+        {
+            "id": 4,
+            "name": "Riau",
+            "alias": "Riau"
+        },
+        {
+            "id": 5,
+            "name": "Jambi",
+            "alias": "Jambi"
+        },
+        {
+            "id": 6,
+            "name": "Kepulauan Riau",
+            "alias": "Kepri"
+        },
+        {
+            "id": 7,
+            "name": "Bengkulu",
+            "alias": "Bengkulu"
+        },
+        {
+            "id": 8,
+            "name": "Sumatra Selatan",
+            "alias": "Sumsel"
+        },
+        {
+            "id": 9,
+            "name": "Kepulauan Bangka Belitung",
+            "alias": "Babel"
+        },
+        {
+            "id": 10,
+            "name": "Lampung",
+            "alias": "Lampung"
+        },
+        {
+            "id": 11,
+            "name": "Banten",
+            "alias": "Banten"
+        },
+        {
+            "id": 12,
+            "name": "DKI Jakarta",
+            "alias": "Jakarta"
+        },
+        {
+            "id": 13,
+            "name": "Jawa Barat",
+            "alias": "Jabar"
+        },
+        {
+            "id": 14,
+            "name": "Jawa Tengah",
+            "alias": "Jateng"
+        },
+        {
+            "id": 15,
+            "name": "DI Yogyakarta",
+            "alias": "DIY"
+        },
+        {
+            "id": 16,
+            "name": "Jawa Timur",
+            "alias": "Jatim"
+        },
+        {
+            "id": 17,
+            "name": "Bali",
+            "alias": "Bali"
+        },
+        {
+            "id": 18,
+            "name": "Nusa Tenggara Barat",
+            "alias": "NTB"
+        },
+        {
+            "id": 19,
+            "name": "Nusa Tenggara Timur",
+            "alias": "NTT"
+        },
+        {
+            "id": 20,
+            "name": "Kalimantan Barat",
+            "alias": "Kalbar"
+        },
+        {
+            "id": 21,
+            "name": "Kalimantan Tengah",
+            "alias": "Kalteng"
+        },
+        {
+            "id": 22,
+            "name": "Kalimantan Selatan",
+            "alias": "Kalsel"
+        },
+        {
+            "id": 23,
+            "name": "Kalimantan Timur",
+            "alias": "Kaltim"
+        },
+        {
+            "id": 24,
+            "name": "Kalimantan Utara",
+            "alias": "Kaltara"
+        },
+        {
+            "id": 25,
+            "name": "Sulawesi Barat",
+            "alias": "Sulbar"
+        },
+        {
+            "id": 26,
+            "name": "Sulawesi Selatan",
+            "alias": "Sulsel"
+        },
+        {
+            "id": 27,
+            "name": "Sulawesi Tenggara",
+            "alias": "Sultra"
+        },
+        {
+            "id": 28,
+            "name": "Sulawesi Tengah",
+            "alias": "Sulteng"
+        },
+        {
+            "id": 29,
+            "name": "Gorontalo",
+            "alias": "Gorontalo"
+        },
+        {
+            "id": 30,
+            "name": "Sulawesi Utara",
+            "alias": "Sulut"
+        },
+        {
+            "id": 31,
+            "name": "Maluku Utara",
+            "alias": "Malut"
+        },
+        {
+            "id": 32,
+            "name": "Maluku",
+            "alias": "Maluku"
+        },
+        {
+            "id": 33,
+            "name": "Papua Barat",
+            "alias": "Pabar"
+        },
+        {
+            "id": 34,
+            "name": "Papua",
+            "alias": "Papua"
+        }
+    ]
+}
