@@ -2,9 +2,9 @@
 
 List of Province (Provinsi), City (Kabupaten/Kota), Administrative Area 3 (Kecamatan) and Administrative Area 4 (Gampong/Desa/Kelurahan) in Indonesia
 
-# API Format
+# Available Data
 
-## Get Provinces List (Provinsi)
+## Provinces List (Provinsi)
 
 > Method: GET
 >
@@ -12,7 +12,7 @@ List of Province (Provinsi), City (Kabupaten/Kota), Administrative Area 3 (Kecam
 
 > Example: https://rukandax.github.io/indonesia-administrative-area/areas.json
 
-## Get Cities List (Kabupaten/Kota)
+## Cities List (Kabupaten/Kota)
 
 > Method: GET
 >
@@ -20,7 +20,7 @@ List of Province (Provinsi), City (Kabupaten/Kota), Administrative Area 3 (Kecam
 
 > Example: https://rukandax.github.io/indonesia-administrative-area/1/areas.json
 
-## Get Administrative Area 3 List (Kecamatan)
+## Administrative Area 3 List (Kecamatan)
 
 > Method: GET
 >
@@ -28,7 +28,9 @@ List of Province (Provinsi), City (Kabupaten/Kota), Administrative Area 3 (Kecam
 
 > Example: https://rukandax.github.io/indonesia-administrative-area/1/1/areas.json
 
-## Get Administrative Area 4 List (Gampong/Desa/Kelurahan)
+## Administrative Area 4 List (Gampong/Desa/Kelurahan)
+
+**For Administrative Area 4, We also include postal code as `alias` property**
 
 > Method: GET
 >
