@@ -54,7 +54,7 @@ All of our endpoint will return the similar format
 {
     "id": Number,
     "name": String,
-    "short": String (Optional)
+    "alias": String (Optional)
 }
 ```
 
