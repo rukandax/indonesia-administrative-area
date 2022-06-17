@@ -12,7 +12,7 @@ List of Province (Provinsi), City (Kabupaten/Kota), Administrative Area 3 (Kecam
 
 > Example: https://rukandax.github.io/indonesia-administrative-area/areas.json
 
-## Get Cities List (Kota)
+## Get Cities List (Kabupaten/Kota)
 
 > Method: GET
 >
@@ -28,7 +28,7 @@ List of Province (Provinsi), City (Kabupaten/Kota), Administrative Area 3 (Kecam
 
 > Example: https://rukandax.github.io/indonesia-administrative-area/1/1/areas.json
 
-## Get Administrative Area 4 List (Kelurahan)
+## Get Administrative Area 4 List (Gampong/Dusun/Kelurahan)
 
 > Method: GET
 >

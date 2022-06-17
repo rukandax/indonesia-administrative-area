@@ -1,0 +1,1 @@
+# Kabupaten Aceh Barat (Administrative Area 3 - Kecamatan)
