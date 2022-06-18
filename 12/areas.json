@@ -2,11 +2,27 @@
     "areas": [
         {
             "id": 1,
-            "name": "Kepulauan Seribu Utara"
+            "name": "Kabupaten Kepulauan Seribu"
         },
         {
             "id": 2,
-            "name": "Kepulauan Seribu Selatan"
+            "name": "Jakarta Barat"
+        },
+        {
+            "id": 3,
+            "name": "Jakarta Pusat"
+        },
+        {
+            "id": 4,
+            "name": "Jakarta Selatan"
+        },
+        {
+            "id": 5,
+            "name": "Jakarta Timur"
+        },
+        {
+            "id": 6,
+            "name": "Jakarta Utara"
         }
     ]
 }
