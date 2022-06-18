@@ -21,6 +21,13 @@ function collectDirToCheck(dirPath) {
 
 collectDirToCheck(dirToCheck[0][0]);
 
+describe("Snapshot test", () => {
+  test.each(dirToCheck)("Snapshot test on %s", (dir) => {
+    const data = require(`.${dir}areas.json`);
+    expect(data).toMatchSnapshot();
+  });
+});
+
 describe("Check for duplicate data on each areas.json file", () => {
   test.each(dirToCheck)("Check for duplicate 'id' on %s", (dir) => {
     const data = require(`.${dir}areas.json`);

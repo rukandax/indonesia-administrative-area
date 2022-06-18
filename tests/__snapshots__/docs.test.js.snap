@@ -1,0 +1,534 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot test Snapshot test on ./docs/ 1`] = `
+Object {
+  "areas": Array [
+    Object {
+      "alias": "Aceh",
+      "id": 1,
+      "name": "Aceh",
+    },
+    Object {
+      "alias": "Sumut",
+      "id": 2,
+      "name": "Sumatra Utara",
+    },
+    Object {
+      "alias": "Sumbar",
+      "id": 3,
+      "name": "Sumatra Barat",
+    },
+    Object {
+      "alias": "Riau",
+      "id": 4,
+      "name": "Riau",
+    },
+    Object {
+      "alias": "Jambi",
+      "id": 5,
+      "name": "Jambi",
+    },
+    Object {
+      "alias": "Kepri",
+      "id": 6,
+      "name": "Kepulauan Riau",
+    },
+    Object {
+      "alias": "Bengkulu",
+      "id": 7,
+      "name": "Bengkulu",
+    },
+    Object {
+      "alias": "Sumsel",
+      "id": 8,
+      "name": "Sumatra Selatan",
+    },
+    Object {
+      "alias": "Babel",
+      "id": 9,
+      "name": "Kepulauan Bangka Belitung",
+    },
+    Object {
+      "alias": "Lampung",
+      "id": 10,
+      "name": "Lampung",
+    },
+    Object {
+      "alias": "Banten",
+      "id": 11,
+      "name": "Banten",
+    },
+    Object {
+      "alias": "Jakarta",
+      "id": 12,
+      "name": "DKI Jakarta",
+    },
+    Object {
+      "alias": "Jabar",
+      "id": 13,
+      "name": "Jawa Barat",
+    },
+    Object {
+      "alias": "Jateng",
+      "id": 14,
+      "name": "Jawa Tengah",
+    },
+    Object {
+      "alias": "DIY",
+      "id": 15,
+      "name": "DI Yogyakarta",
+    },
+    Object {
+      "alias": "Jatim",
+      "id": 16,
+      "name": "Jawa Timur",
+    },
+    Object {
+      "alias": "Bali",
+      "id": 17,
+      "name": "Bali",
+    },
+    Object {
+      "alias": "NTB",
+      "id": 18,
+      "name": "Nusa Tenggara Barat",
+    },
+    Object {
+      "alias": "NTT",
+      "id": 19,
+      "name": "Nusa Tenggara Timur",
+    },
+    Object {
+      "alias": "Kalbar",
+      "id": 20,
+      "name": "Kalimantan Barat",
+    },
+    Object {
+      "alias": "Kalteng",
+      "id": 21,
+      "name": "Kalimantan Tengah",
+    },
+    Object {
+      "alias": "Kalsel",
+      "id": 22,
+      "name": "Kalimantan Selatan",
+    },
+    Object {
+      "alias": "Kaltim",
+      "id": 23,
+      "name": "Kalimantan Timur",
+    },
+    Object {
+      "alias": "Kaltara",
+      "id": 24,
+      "name": "Kalimantan Utara",
+    },
+    Object {
+      "alias": "Sulbar",
+      "id": 25,
+      "name": "Sulawesi Barat",
+    },
+    Object {
+      "alias": "Sulsel",
+      "id": 26,
+      "name": "Sulawesi Selatan",
+    },
+    Object {
+      "alias": "Sultra",
+      "id": 27,
+      "name": "Sulawesi Tenggara",
+    },
+    Object {
+      "alias": "Sulteng",
+      "id": 28,
+      "name": "Sulawesi Tengah",
+    },
+    Object {
+      "alias": "Gorontalo",
+      "id": 29,
+      "name": "Gorontalo",
+    },
+    Object {
+      "alias": "Sulut",
+      "id": 30,
+      "name": "Sulawesi Utara",
+    },
+    Object {
+      "alias": "Malut",
+      "id": 31,
+      "name": "Maluku Utara",
+    },
+    Object {
+      "alias": "Maluku",
+      "id": 32,
+      "name": "Maluku",
+    },
+    Object {
+      "alias": "Pabar",
+      "id": 33,
+      "name": "Papua Barat",
+    },
+    Object {
+      "alias": "Papua",
+      "id": 34,
+      "name": "Papua",
+    },
+  ],
+}
+`;
+
+exports[`Snapshot test Snapshot test on ./docs/1/ 1`] = `
+Object {
+  "areas": Array [
+    Object {
+      "id": 1,
+      "name": "Kabupaten Aceh Barat",
+    },
+    Object {
+      "id": 2,
+      "name": "Kabupaten Aceh Barat Daya",
+    },
+    Object {
+      "id": 3,
+      "name": "Kabupaten Aceh Besar",
+    },
+    Object {
+      "id": 4,
+      "name": "Kabupaten Aceh Jaya",
+    },
+    Object {
+      "id": 5,
+      "name": "Kabupaten Aceh Selatan",
+    },
+    Object {
+      "id": 6,
+      "name": "Kabupaten Aceh Singkil",
+    },
+    Object {
+      "id": 7,
+      "name": "Kabupaten Aceh Tamiang",
+    },
+    Object {
+      "id": 8,
+      "name": "Kabupaten Aceh Tengah",
+    },
+    Object {
+      "id": 9,
+      "name": "Kabupaten Aceh Tenggara",
+    },
+    Object {
+      "id": 10,
+      "name": "Kabupaten Aceh Timur",
+    },
+    Object {
+      "id": 11,
+      "name": "Kabupaten Aceh Utara",
+    },
+    Object {
+      "id": 12,
+      "name": "Kabupaten Bener Meriah",
+    },
+    Object {
+      "id": 13,
+      "name": "Kabupaten Bireuen",
+    },
+    Object {
+      "id": 14,
+      "name": "Kabupaten Gayo Lues",
+    },
+    Object {
+      "id": 15,
+      "name": "Kabupaten Nagan Raya",
+    },
+    Object {
+      "id": 16,
+      "name": "Kabupaten Pidie",
+    },
+    Object {
+      "id": 17,
+      "name": "Kabupaten Pidie Jaya",
+    },
+    Object {
+      "id": 18,
+      "name": "Kabupaten Simeulue",
+    },
+    Object {
+      "id": 19,
+      "name": "Banda Aceh",
+    },
+    Object {
+      "id": 20,
+      "name": "Langsa",
+    },
+    Object {
+      "id": 21,
+      "name": "Lhokseumawe",
+    },
+    Object {
+      "id": 22,
+      "name": "Sabang",
+    },
+    Object {
+      "id": 23,
+      "name": "Subulussalam",
+    },
+  ],
+}
+`;
+
+exports[`Snapshot test Snapshot test on ./docs/1/1/ 1`] = `
+Object {
+  "areas": Array [
+    Object {
+      "id": 1,
+      "name": "Johan Pahlawan",
+    },
+    Object {
+      "id": 2,
+      "name": "Samatiga",
+    },
+    Object {
+      "id": 3,
+      "name": "Bubon",
+    },
+    Object {
+      "id": 4,
+      "name": "Arongan Lambalek",
+    },
+    Object {
+      "id": 5,
+      "name": "Woyla",
+    },
+    Object {
+      "id": 6,
+      "name": "Woyla Barat",
+    },
+    Object {
+      "id": 7,
+      "name": "Woyla Timur",
+    },
+    Object {
+      "id": 8,
+      "name": "Kaway XVI",
+    },
+    Object {
+      "id": 9,
+      "name": "Meureubo",
+    },
+    Object {
+      "id": 10,
+      "name": "Pante Ceureumen",
+    },
+    Object {
+      "id": 11,
+      "name": "Panton Reu",
+    },
+    Object {
+      "id": 12,
+      "name": "Sungai Mas",
+    },
+  ],
+}
+`;
+
+exports[`Snapshot test Snapshot test on ./docs/1/1/1/ 1`] = `
+Object {
+  "areas": Array [
+    Object {
+      "alias": "23618",
+      "id": 1,
+      "name": "Blang Beurandang",
+    },
+    Object {
+      "alias": "23617",
+      "id": 2,
+      "name": "Drien Rampak",
+    },
+    Object {
+      "alias": "23611",
+      "id": 3,
+      "name": "Gampa",
+    },
+    Object {
+      "alias": "23611",
+      "id": 4,
+      "name": "Kampung Belakang",
+    },
+    Object {
+      "alias": "23611",
+      "id": 5,
+      "name": "Kampung Darat",
+    },
+    Object {
+      "alias": "23611",
+      "id": 6,
+      "name": "Kampung Pasir",
+    },
+    Object {
+      "alias": "23614",
+      "id": 7,
+      "name": "Kuta Padang",
+    },
+    Object {
+      "alias": "23618",
+      "id": 8,
+      "name": "Lapang",
+    },
+    Object {
+      "alias": "23611",
+      "id": 9,
+      "name": "Leuhan",
+    },
+    Object {
+      "alias": "23611",
+      "id": 10,
+      "name": "Padang Seurahet",
+    },
+    Object {
+      "alias": "23612",
+      "id": 11,
+      "name": "Panggong",
+    },
+    Object {
+      "alias": "23612",
+      "id": 12,
+      "name": "Pasar Aceh",
+    },
+    Object {
+      "alias": "23616",
+      "id": 13,
+      "name": "Rundeng",
+    },
+    Object {
+      "alias": "23611",
+      "id": 14,
+      "name": "Seuneubok",
+    },
+    Object {
+      "alias": "23611",
+      "id": 15,
+      "name": "Suak Nie",
+    },
+    Object {
+      "alias": "23611",
+      "id": 16,
+      "name": "Suak Raya",
+    },
+    Object {
+      "alias": "23611",
+      "id": 17,
+      "name": "Suak Ribee",
+    },
+    Object {
+      "alias": "23611",
+      "id": 18,
+      "name": "Suak Sigadeng",
+    },
+    Object {
+      "alias": "23611",
+      "id": 19,
+      "name": "Suak Indrapuri",
+    },
+    Object {
+      "alias": "23611",
+      "id": 20,
+      "name": "Ujong Baroh",
+    },
+    Object {
+      "alias": "23617",
+      "id": 21,
+      "name": "Ujung Kalak",
+    },
+  ],
+}
+`;
+
+exports[`Snapshot test Snapshot test on ./docs/12/ 1`] = `
+Object {
+  "areas": Array [
+    Object {
+      "id": 1,
+      "name": "Kabupaten Kepulauan Seribu",
+    },
+    Object {
+      "id": 2,
+      "name": "Jakarta Barat",
+    },
+    Object {
+      "id": 3,
+      "name": "Jakarta Pusat",
+    },
+    Object {
+      "id": 4,
+      "name": "Jakarta Selatan",
+    },
+    Object {
+      "id": 5,
+      "name": "Jakarta Timur",
+    },
+    Object {
+      "id": 6,
+      "name": "Jakarta Utara",
+    },
+  ],
+}
+`;
+
+exports[`Snapshot test Snapshot test on ./docs/12/1/ 1`] = `
+Object {
+  "areas": Array [
+    Object {
+      "id": 1,
+      "name": "Kepulauan Seribu Utara",
+    },
+    Object {
+      "id": 2,
+      "name": "Kepulauan Seribu Selatan",
+    },
+  ],
+}
+`;
+
+exports[`Snapshot test Snapshot test on ./docs/12/1/1/ 1`] = `
+Object {
+  "areas": Array [
+    Object {
+      "alias": "14540",
+      "id": 1,
+      "name": "Pulau Harapan",
+    },
+    Object {
+      "alias": "14540",
+      "id": 2,
+      "name": "Pulau Kelapa",
+    },
+    Object {
+      "alias": "14540",
+      "id": 3,
+      "name": "Pulau Panggang",
+    },
+  ],
+}
+`;
+
+exports[`Snapshot test Snapshot test on ./docs/12/1/2/ 1`] = `
+Object {
+  "areas": Array [
+    Object {
+      "alias": "14520",
+      "id": 1,
+      "name": "Pulau Tidung",
+    },
+    Object {
+      "alias": "14520",
+      "id": 2,
+      "name": "Pulau Pari",
+    },
+    Object {
+      "alias": "14510",
+      "id": 3,
+      "name": "Pulau Untung Jawa",
+    },
+  ],
+}
+`;
