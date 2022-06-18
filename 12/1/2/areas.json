@@ -1,0 +1,19 @@
+{
+    "areas": [
+        {
+            "id": 1,
+            "name": "Pulau Tidung",
+            "alias": "14520"
+        },
+        {
+            "id": 2,
+            "name": "Pulau Pari",
+            "alias": "14520"
+        },
+        {
+            "id": 3,
+            "name": "Pulau Untung Jawa",
+            "alias": "14510"
+        }
+    ]
+}
