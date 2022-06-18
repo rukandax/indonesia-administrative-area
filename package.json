@@ -1,0 +1,23 @@
+{
+  "name": "indonesia-administrative-area",
+  "version": "1.0.0",
+  "description": "List of Province (Provinsi), City (Kabupaten/Kota), Administrative Area 3 (Kecamatan) and Administrative Area 4 (Gampong/Desa/Kelurahan) in Indonesia",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rukandax/indonesia-administrative-area.git"
+  },
+  "keywords": [
+    "administrative-area"
+  ],
+  "author": "Rukanda Faridsi",
+  "bugs": {
+    "url": "https://github.com/rukandax/indonesia-administrative-area/issues"
+  },
+  "homepage": "https://github.com/rukandax/indonesia-administrative-area#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
