@@ -1,0 +1,52 @@
+{
+    "areas": [
+        {
+            "id": 1,
+            "name": "Johan Pahlawan"
+        },
+        {
+            "id": 2,
+            "name": "Samatiga"
+        },
+        {
+            "id": 3,
+            "name": "Bubon"
+        },
+        {
+            "id": 4,
+            "name": "Arongan Lambalek"
+        },
+        {
+            "id": 5,
+            "name": "Woyla"
+        },
+        {
+            "id": 6,
+            "name": "Woyla Barat"
+        },
+        {
+            "id": 7,
+            "name": "Woyla Timur"
+        },
+        {
+            "id": 8,
+            "name": "Kaway XVI"
+        },
+        {
+            "id": 9,
+            "name": "Meureubo"
+        },
+        {
+            "id": 10,
+            "name": "Pante Ceureumen"
+        },
+        {
+            "id": 11,
+            "name": "Panton Reu"
+        },
+        {
+            "id": 12,
+            "name": "Sungai Mas"
+        }
+    ]
+}

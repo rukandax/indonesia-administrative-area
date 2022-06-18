@@ -1,0 +1,12 @@
+{
+    "areas": [
+        {
+            "id": 1,
+            "name": "Kepulauan Seribu Utara"
+        },
+        {
+            "id": 2,
+            "name": "Kepulauan Seribu Selatan"
+        }
+    ]
+}
