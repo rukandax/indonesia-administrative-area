@@ -1,0 +1,39 @@
+{
+    "areas": [
+        {
+            "id": 1,
+            "name": "Tomang",
+            "alias": "11440"
+        },
+        {
+            "id": 2,
+            "name": "Grogol",
+            "alias": "11450"
+        },
+        {
+            "id": 3,
+            "name": "Jelambar",
+            "alias": "11460"
+        },
+        {
+            "id": 4,
+            "name": "Jelambar Baru",
+            "alias": "11460"
+        },
+        {
+            "id": 5,
+            "name": "Wijaya Kusuma",
+            "alias": "11460"
+        },
+        {
+            "id": 6,
+            "name": "Tanjung Duren Utara",
+            "alias": "11470"
+        },
+        {
+            "id": 7,
+            "name": "Tanjung Duren Selatan",
+            "alias": "11470"
+        }
+    ]
+}

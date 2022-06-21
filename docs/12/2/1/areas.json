@@ -1,0 +1,34 @@
+{
+    "areas": [
+        {
+            "id": 1,
+            "name": "Kedaung Kali Angke",
+            "alias": "11710"
+        },
+        {
+            "id": 2,
+            "name": "Kapuk",
+            "alias": "11720"
+        },
+        {
+            "id": 3,
+            "name": "Cengkareng Barat",
+            "alias": "11730"
+        },
+        {
+            "id": 4,
+            "name": "Cengkareng Timur",
+            "alias": "11730"
+        },
+        {
+            "id": 5,
+            "name": "Rawa Buaya",
+            "alias": "11740"
+        },
+        {
+            "id": 6,
+            "name": "Duri Kosambi",
+            "alias": "11750"
+        }
+    ]
+}

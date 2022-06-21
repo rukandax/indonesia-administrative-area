@@ -1,0 +1,19 @@
+{
+    "areas": [
+        {
+            "id": 1,
+            "name": "Cempaka Putih Timur",
+            "alias": "10510"
+        },
+        {
+            "id": 2,
+            "name": "Cempaka Putih Barat",
+            "alias": "10520"
+        },
+        {
+            "id": 3,
+            "name": "Rawasari",
+            "alias": "10570"
+        }
+    ]
+}

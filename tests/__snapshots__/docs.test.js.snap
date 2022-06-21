@@ -532,3 +532,219 @@ Object {
   ],
 }
 `;
+
+exports[`Snapshot test Snapshot test on ./docs/12/2/ 1`] = `
+Object {
+  "areas": Array [
+    Object {
+      "id": 1,
+      "name": "Cengkareng",
+    },
+    Object {
+      "id": 2,
+      "name": "Grogol Petamburan",
+    },
+    Object {
+      "id": 3,
+      "name": "Taman Sari",
+    },
+    Object {
+      "id": 4,
+      "name": "Tambora",
+    },
+    Object {
+      "id": 5,
+      "name": "Kebon Jeruk",
+    },
+    Object {
+      "id": 6,
+      "name": "Kalideres",
+    },
+    Object {
+      "id": 7,
+      "name": "Palmerah",
+    },
+    Object {
+      "id": 8,
+      "name": "Kembangan",
+    },
+  ],
+}
+`;
+
+exports[`Snapshot test Snapshot test on ./docs/12/2/1/ 1`] = `
+Object {
+  "areas": Array [
+    Object {
+      "alias": "11710",
+      "id": 1,
+      "name": "Kedaung Kali Angke",
+    },
+    Object {
+      "alias": "11720",
+      "id": 2,
+      "name": "Kapuk",
+    },
+    Object {
+      "alias": "11730",
+      "id": 3,
+      "name": "Cengkareng Barat",
+    },
+    Object {
+      "alias": "11730",
+      "id": 4,
+      "name": "Cengkareng Timur",
+    },
+    Object {
+      "alias": "11740",
+      "id": 5,
+      "name": "Rawa Buaya",
+    },
+    Object {
+      "alias": "11750",
+      "id": 6,
+      "name": "Duri Kosambi",
+    },
+  ],
+}
+`;
+
+exports[`Snapshot test Snapshot test on ./docs/12/2/2/ 1`] = `
+Object {
+  "areas": Array [
+    Object {
+      "alias": "11440",
+      "id": 1,
+      "name": "Tomang",
+    },
+    Object {
+      "alias": "11450",
+      "id": 2,
+      "name": "Grogol",
+    },
+    Object {
+      "alias": "11460",
+      "id": 3,
+      "name": "Jelambar",
+    },
+    Object {
+      "alias": "11460",
+      "id": 4,
+      "name": "Jelambar Baru",
+    },
+    Object {
+      "alias": "11460",
+      "id": 5,
+      "name": "Wijaya Kusuma",
+    },
+    Object {
+      "alias": "11470",
+      "id": 6,
+      "name": "Tanjung Duren Utara",
+    },
+    Object {
+      "alias": "11470",
+      "id": 7,
+      "name": "Tanjung Duren Selatan",
+    },
+  ],
+}
+`;
+
+exports[`Snapshot test Snapshot test on ./docs/12/3/ 1`] = `
+Object {
+  "areas": Array [
+    Object {
+      "id": 1,
+      "name": "Cempaka Putih",
+    },
+    Object {
+      "id": 2,
+      "name": "Gambir",
+    },
+    Object {
+      "id": 3,
+      "name": "Johar Baru",
+    },
+    Object {
+      "id": 4,
+      "name": "Kemayoran",
+    },
+    Object {
+      "id": 5,
+      "name": "Menteng",
+    },
+    Object {
+      "id": 6,
+      "name": "Sawah Besar",
+    },
+    Object {
+      "id": 7,
+      "name": "Senen",
+    },
+    Object {
+      "id": 8,
+      "name": "Tanah Abang",
+    },
+  ],
+}
+`;
+
+exports[`Snapshot test Snapshot test on ./docs/12/3/1/ 1`] = `
+Object {
+  "areas": Array [
+    Object {
+      "alias": "10510",
+      "id": 1,
+      "name": "Cempaka Putih Timur",
+    },
+    Object {
+      "alias": "10520",
+      "id": 2,
+      "name": "Cempaka Putih Barat",
+    },
+    Object {
+      "alias": "10570",
+      "id": 3,
+      "name": "Rawasari",
+    },
+  ],
+}
+`;
+
+exports[`Snapshot test Snapshot test on ./docs/12/3/2/ 1`] = `
+Object {
+  "areas": Array [
+    Object {
+      "alias": "10110",
+      "id": 1,
+      "name": "Gambir",
+    },
+    Object {
+      "alias": "10120",
+      "id": 2,
+      "name": "Kebon Kelapa",
+    },
+    Object {
+      "alias": "10130",
+      "id": 3,
+      "name": "Petojo Selatan",
+    },
+    Object {
+      "alias": "10140",
+      "id": 4,
+      "name": "Duri Pulo",
+    },
+    Object {
+      "alias": "10150",
+      "id": 5,
+      "name": "Cideng",
+    },
+    Object {
+      "alias": "10160",
+      "id": 6,
+      "name": "Petojo Utara",
+    },
+  ],
+}
+`;

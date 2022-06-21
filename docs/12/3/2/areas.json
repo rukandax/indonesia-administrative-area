@@ -1,0 +1,34 @@
+{
+    "areas": [
+        {
+            "id": 1,
+            "name": "Gambir",
+            "alias": "10110"
+        },
+        {
+            "id": 2,
+            "name": "Kebon Kelapa",
+            "alias": "10120"
+        },
+        {
+            "id": 3,
+            "name": "Petojo Selatan",
+            "alias": "10130"
+        },
+        {
+            "id": 4,
+            "name": "Duri Pulo",
+            "alias": "10140"
+        },
+        {
+            "id": 5,
+            "name": "Cideng",
+            "alias": "10150"
+        },
+        {
+            "id": 6,
+            "name": "Petojo Utara",
+            "alias": "10160"
+        }
+    ]
+}
