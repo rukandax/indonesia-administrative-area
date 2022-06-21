@@ -1,1 +1,1 @@
-exclude: ["./package.json", "./package-lock.json", "./tests", "*/**/README.md"]
+exclude: ["./package.json", "./package-lock.json", "./tests"]
