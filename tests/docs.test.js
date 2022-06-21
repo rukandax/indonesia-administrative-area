@@ -70,15 +70,5 @@ describe("Check for duplicate data on each areas.json file", () => {
       const readmeFile = fs.readFileSync(`${dir}README.md`, 'utf8');
       expect(readmeFile).toBe(`# ${currentArea.name}`);
     }
-
-    // const data = require(`.${dir}areas.json`);
-
-    // expect(data).toHaveProperty("areas");
-    // expect(data.areas.length).toBeGreaterThan(0);
-
-    // const ids = data.areas.map((area) => area.id);
-    // const isDuplicate = ids.some((id, idx) => ids.indexOf(id) !== idx);
-
-    // expect(isDuplicate).toBe(false);
   });
 });
